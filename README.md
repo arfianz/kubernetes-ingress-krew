@@ -1,4 +1,4 @@
-# Kubernetes Ingress sing kubectl plugin
+# Kubernetes Ingress using kubectl plugin
 
 With Deployments getting bigger and bigger, networking issues are becoming harder and harder to troubleshoot.
 
